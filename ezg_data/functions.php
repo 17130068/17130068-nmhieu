@@ -5647,7 +5647,7 @@ $f->max_ranking=5;
 $f->direct_ranking=false;
 $f->ranking_script='$(document).ready(function(){$(".ranking").ranking({numbers:true});});';
 
-$f->subminiforms=array();
+$f->subminiforms=array('frm_2'=>'29');
 $f->subminiforms_news=array();
 
 $f->mobile_detected=false;

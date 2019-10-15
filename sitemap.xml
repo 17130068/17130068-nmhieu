@@ -2,43 +2,19 @@
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.9">
       <url>
       <loc>http://index.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
+      <lastmod>2019-10-15T18:29:10+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
       <loc>http://exercises.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://lab1.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://lab2.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://lab1_1.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://lab2_1.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
+      <lastmod>2019-10-15T18:29:10+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
       <loc>http://about.html</loc>
-      <lastmod>2019-10-07T23:03:56+00:00</lastmod>
+      <lastmod>2019-10-15T18:29:10+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>

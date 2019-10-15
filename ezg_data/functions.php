@@ -5536,7 +5536,7 @@ $f->ca_profile_templates_a=array("0");
 $f->error_iframe=false; //the iframe html string or FALSE if not used.
 $f->tiny=false;
 $f->editor="LIVE";
-$f->ext_styles=array("normal","sub","L","XL","XXL","XXXL","43739,7765154514");
+$f->ext_styles=array("normal","sub","L","XL","XXL","XXXL","43746,564961956");
 //captcha size is actually captcha type in ezg
 $f->reCaptcha=$f->captcha_size=='recaptcha';
 $f->slidingCaptcha=$f->captcha_size=='sliding captcha';

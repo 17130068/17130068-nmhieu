@@ -322,16 +322,16 @@ body{height:100%;background:#575C5F;}
 
 /*template styles*/
 #container{width:100%;height:100%;position:relative;}
-#topbar{width:990px;height:212px;position:relative;}
-#main{width:990px;margin-left:auto;margin-right:auto;overflow:auto;background: url(../images/bg.gif) repeat-y left top #ffffff;margin-top:10px;}
+#topbar{width:100pw;height:212px;position:relative;}
+#main{width:100pw;margin-left:auto;margin-right:auto;overflow:auto;background: url(../images/bg.gif) repeat-y left top #ffffff;margin-top:0px:}
 #nav{float:left;width:200px;}
-#xm1{background: #ffffff;float:left;width:790px;min-height:500px;height:auto !important;height:460px;}
+#xm1{background: #ffffff;float:left;width:100pw;min-height:750px;height:auto !important;height:460px;}
 #xm2{padding:0px;}
 #bottom{border-bottom: 1px solid #ffffff;clear: both;}
 #banner{position:absolute;top:0px;left:0px;}
-#eima{position:absolute;top:0px;left:200px;}
-#eima1{position:absolute;top:0px;left:465px;}
-#eima2{position:absolute;top:0px;left:722px;}
+#eima{position:absolute;top:0px;left:250px;}
+#eima1{position:absolute;top:0px;left:650px;}
+#eima2{position:absolute;top:0px;left:1050px;}
 #search{bottom: 5px;position: absolute;width:200px;text-align:center;}
 #earea{width:176px;margin: 2px 12px;}
 #sitename1{position:absolute;top:12px;left:10px;width:180px;text-align:center;font: italic small-caps bold 21px Arial, Helvetica, sans-serif;color:#FFFFFF;}
